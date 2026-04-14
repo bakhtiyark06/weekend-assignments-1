@@ -1,0 +1,3 @@
+Linux is useful for DevOps.
+grep helps search text.
+chmod changes file permissions.
