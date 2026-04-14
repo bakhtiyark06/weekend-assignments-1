@@ -1,0 +1,11 @@
+﻿# Weekend Assignment
+ 
+
+## Name
+Bakhtiyar Khan
+
+## Course
+DevOps Course
+
+## Short Bio
+I am learning GitHub, VS Code, Linux, and DevOps fundamentals. I am building my skills in version control, command line usage, and development workflows.
