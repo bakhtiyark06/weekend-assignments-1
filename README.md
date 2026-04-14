@@ -1,4 +1,4 @@
-# Weekend Assignment
+# Weekend Assignment 1
 
 Name: Bakhtiyar Khan  
 Course: DevOps Course  
